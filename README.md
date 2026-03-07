@@ -1,5 +1,7 @@
 ![banner](https://github.com/user-attachments/assets/53314c16-4243-4b16-88f2-666328f608fe)
 
+![top](https://github.com/user-attachments/assets/bdb5f0e3-a00c-43e1-9e80-1f8f8f115821)
+
 ![Spacing](https://github.com/user-attachments/assets/0868ddf3-99a7-43d7-8df5-0ff780be16eb)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=24&letterSpacing=-1%25&duration=3500&pause=1500&color=181818&width=880&height=40&lines=%22%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98+%EC%8B%9C%EC%84%A0%EC%97%90%EC%84%9C+%EA%B8%B0%ED%9A%8D%ED%95%98%EA%B3%A0%2C+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98+%EC%96%B8%EC%96%B4%EB%A1%9C+%EA%B5%AC%ED%98%84%ED%95%A9%EB%8B%88%EB%8B%A4.%22)](https://git.io/typing-svg)
@@ -56,3 +58,6 @@
 <p align="center">
   <font color="#86868b">©2026 beomseo. Crafted with passion and curiosity.</font>
 </p>
+
+![bottom](https://github.com/user-attachments/assets/bb574938-135c-4c34-b4ee-11fe7898aec4)
+
