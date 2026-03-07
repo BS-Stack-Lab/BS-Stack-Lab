@@ -10,36 +10,33 @@
 
 ---
 
-![Spacing](https://github.com/user-attachments/assets/0868ddf3-99a7-43d7-8df5-0ff780be16eb)
-
 ### 🛠 Skills
 
 #### Planning
-<img height="48" alt="slack-icone-svg-150px" src="https://github.com/user-attachments/assets/c12216bb-5724-4f84-bd5a-1ba2a0783725" />&nbsp;
-<img height="48" alt="_System App Icon" src="https://github.com/user-attachments/assets/a3c5f8f3-3d32-4ac1-afbd-ab77d47e5f0f" />
-
+<img height="48" alt="slack" src="https://github.com/user-attachments/assets/f29bb022-f633-43b2-b282-5c1b8d254eb5" />&nbsp;
+<img height="48" alt="notion" src="https://github.com/user-attachments/assets/7c037397-f972-4d62-a081-9df3bf522f3f" />
 
 #### Design
-<img height="48" alt="_System App Icon-3" src="https://github.com/user-attachments/assets/b3725fbb-0e17-4ecd-90f0-f4226a07ba37" />&nbsp;
-<img height="48" alt="_System App Icon-1" src="https://github.com/user-attachments/assets/a6d04a83-5510-43e9-8f04-0590b0edc300" />&nbsp;
-<img height="48" alt="_System App Icon-2" src="https://github.com/user-attachments/assets/8a88df97-9be0-4d4c-98d2-2e73634d7a82" />
+<img height="48" alt="figma" src="https://github.com/user-attachments/assets/e910193f-8ada-41e0-be98-33971d5657d8" />&nbsp;
+<img height="48" alt="ps" src="https://github.com/user-attachments/assets/846dd530-3709-422b-a291-5e4f4e7a3035" />&nbsp;
+<img height="48" alt="ai" src="https://github.com/user-attachments/assets/9dce3a03-e2ca-4d7d-9f7e-31222b3030a6" />
+
 
 #### Development
-<img height="48" alt="_System App Icon-5" src="https://github.com/user-attachments/assets/bd2adf87-b294-4387-937f-fe2f59f046b3" />&nbsp;
-<img height="48" alt="_System App Icon-7" src="https://github.com/user-attachments/assets/9cdb4933-7cc8-4693-83c3-5b5eeb072384" />&nbsp;
-<img height="48" alt="_System App Icon-6" src="https://github.com/user-attachments/assets/22a4e3a5-c58c-4e9b-b629-3f2ba8e69ca3" />&nbsp;
-<img height="48" alt="_System App Icon-4" src="https://github.com/user-attachments/assets/d9ef6a97-c424-49e4-82e8-b6fa3f795dd9" />
+<img height="48" alt="java" src="https://github.com/user-attachments/assets/7455cecc-a877-4974-bb29-639fcb054609" />&nbsp;
+<img height="48" alt="in" src="https://github.com/user-attachments/assets/012125bb-cad4-4021-8ea0-c7d059b46f12" />&nbsp;
+<img height="48" alt="vs" src="https://github.com/user-attachments/assets/748f97e0-b497-4737-86cf-b9b8e9a4b347" />&nbsp;
+<img height="48" alt="github" src="https://github.com/user-attachments/assets/b79fa645-91f4-442c-a41d-21d76ad80dda" />
 
 #### Interests
-<img height="48" alt="_System App Icon-8" src="https://github.com/user-attachments/assets/88d87fdc-4625-46c2-95ee-158ae28c6743" />&nbsp;
-<img height="48" alt="_System App Icon-10" src="https://github.com/user-attachments/assets/6e9c6a35-1f39-40b9-a0f8-61862d92636d" />&nbsp;
-<img height="48" alt="_System App Icon-9" src="https://github.com/user-attachments/assets/a30fba59-495e-48f0-b9dc-fdddb2fa7350" />&nbsp;
-<img height="48" alt="_System App Icon-11" src="https://github.com/user-attachments/assets/67278d95-69dd-4210-928a-1ce350c6664c" />
-
+<img height="48" alt="js" src="https://github.com/user-attachments/assets/bc10bd93-c51c-4f6d-9e4a-ad673ef3b20c" />&nbsp;
+<img height="48" alt="re" src="https://github.com/user-attachments/assets/45e722e9-c24b-48fa-9835-23c3e34d35db" />&nbsp;
+<img height="48" alt="flutter" src="https://github.com/user-attachments/assets/d5ae1769-ccc1-4fc0-9f3c-712c48f623df" />&nbsp;
+<img height="48" alt="supabase" src="https://github.com/user-attachments/assets/f27b4366-da5a-425f-8c45-7ffc39b57d0d" />&nbsp;
+<img height="48" alt="jira" src="https://github.com/user-attachments/assets/b47bf84f-dab6-4a28-86a3-1676a30c522b" />
+<img height="48" alt="react" src="https://github.com/user-attachments/assets/45e722e9-c24b-48fa-9835-23c3e34d35db" />&nbsp;
 
 ---
-
-![Spacing](https://github.com/user-attachments/assets/0868ddf3-99a7-43d7-8df5-0ff780be16eb)
 
 ### 📊 Growth Stats
 <p align="center">
@@ -48,8 +45,6 @@
 </p>
 
 ---
-
-![Spacing](https://github.com/user-attachments/assets/0868ddf3-99a7-43d7-8df5-0ff780be16eb)
 
 ### 📫 Let's Connect
 <p align="left">
