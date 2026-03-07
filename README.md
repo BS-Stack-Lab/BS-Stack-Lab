@@ -24,21 +24,29 @@
 
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td width="33.3%" valign="top" style="padding-right: 10px; border: none;">
+    <td width="25%" valign="top" style="padding-right: 10px; border: none;">
       <h4>📋 Planning</h4>
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"> <br>
       <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" style="margin-top: 5px;">
     </td>
-    <td width="33.3%" valign="top" style="padding-right: 10px; border: none;">
+    <td width="25%" valign="top" style="padding-right: 10px; border: none;">
       <h4>🎨 Design</h4>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"> <br>
       <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" style="margin-top: 5px;"> <br>
       <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" style="margin-top: 5px;">
     </td>
-    <td width="33.3%" valign="top" style="border: none;">
+    <td width="25%" valign="top" style="padding-right: 10px; border: none;">
       <h4>💻 Development</h4>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> <br>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" style="margin-top: 5px;">
+    </td>
+    <td width="25%" valign="top" style="border: none;">
+      <h4>✨ 관심있는 것들</h4>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"> <br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="margin-top: 5px;"> <br>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" style="margin-top: 5px;"> <br>
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" style="margin-top: 5px;"> <br>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" style="margin-top: 5px;">
     </td>
   </tr>
 </table>
