@@ -10,10 +10,10 @@
   비전공자로서 AI를 적극 활용하여 아이디어를 빠르게 프로토타이핑하고, 실질적인 백엔드 로직(Java)까지 구현하는 전 과정을 경험하고 싶습니다.
 </div>
 
-### 목표
-<div style="margin-top: -20px;">
-  Java와 SpringBoot를 익힌 다음에 AI가 작성한 코드를 리팩토링할 수 있는 실력까지 오르고 싶습니다.
-</div>
+<h2 align="left">
+  ### 목표 <br>
+  <sub style="font-size: 16px;">Java와 SpringBoot를 익힌 다음에 AI가 작성한 코드를 리팩토링할 수 있는 실력까지 오르고 싶습니다.</sub>
+</h2>
 
 ---
 
