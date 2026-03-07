@@ -1,7 +1,7 @@
 # Design the Experience, Build the Logic.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=F5F5F7&height=150&section=header&text=Full-stack%20Builder&fontSize=50&fontColor=1D1D1F" />
+  <img src="./images/banner.png" width="100%">
 </p>
 
 ## "사용자의 시선에서 기획하고, 개발자의 언어로 구현합니다."
