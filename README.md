@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/34dc8a2c-e255-4e8e-8f35-6cf86be81b53)
+![banner](https://github.com/user-attachments/assets/4577bb5e-e67e-4642-a1dd-13383215a657)
 
 # Design the Experience, Build the Logic.
 
