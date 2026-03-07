@@ -18,23 +18,22 @@
 
 #### Design
 <img height="48" alt="figma" src="https://github.com/user-attachments/assets/e910193f-8ada-41e0-be98-33971d5657d8" />&nbsp;
-<img height="48" alt="ps" src="https://github.com/user-attachments/assets/846dd530-3709-422b-a291-5e4f4e7a3035" />&nbsp;
-<img height="48" alt="ai" src="https://github.com/user-attachments/assets/9dce3a03-e2ca-4d7d-9f7e-31222b3030a6" />
+<img height="48" alt="photoshop" src="https://github.com/user-attachments/assets/846dd530-3709-422b-a291-5e4f4e7a3035" />&nbsp;
+<img height="48" alt="illustrator" src="https://github.com/user-attachments/assets/9dce3a03-e2ca-4d7d-9f7e-31222b3030a6" />
 
 
 #### Development
 <img height="48" alt="java" src="https://github.com/user-attachments/assets/7455cecc-a877-4974-bb29-639fcb054609" />&nbsp;
-<img height="48" alt="in" src="https://github.com/user-attachments/assets/012125bb-cad4-4021-8ea0-c7d059b46f12" />&nbsp;
-<img height="48" alt="vs" src="https://github.com/user-attachments/assets/748f97e0-b497-4737-86cf-b9b8e9a4b347" />&nbsp;
+<img height="48" alt="intellij" src="https://github.com/user-attachments/assets/012125bb-cad4-4021-8ea0-c7d059b46f12" />&nbsp;
+<img height="48" alt="vsCode" src="https://github.com/user-attachments/assets/748f97e0-b497-4737-86cf-b9b8e9a4b347" />&nbsp;
 <img height="48" alt="github" src="https://github.com/user-attachments/assets/b79fa645-91f4-442c-a41d-21d76ad80dda" />
 
 #### Interests
-<img height="48" alt="js" src="https://github.com/user-attachments/assets/bc10bd93-c51c-4f6d-9e4a-ad673ef3b20c" />&nbsp;
-<img height="48" alt="re" src="https://github.com/user-attachments/assets/45e722e9-c24b-48fa-9835-23c3e34d35db" />&nbsp;
-<img height="48" alt="flutter" src="https://github.com/user-attachments/assets/d5ae1769-ccc1-4fc0-9f3c-712c48f623df" />&nbsp;
-<img height="48" alt="supabase" src="https://github.com/user-attachments/assets/f27b4366-da5a-425f-8c45-7ffc39b57d0d" />&nbsp;
-<img height="48" alt="jira" src="https://github.com/user-attachments/assets/b47bf84f-dab6-4a28-86a3-1676a30c522b" />
+<img height="48" alt="javaScript" src="https://github.com/user-attachments/assets/bc10bd93-c51c-4f6d-9e4a-ad673ef3b20c" />&nbsp;
 <img height="48" alt="react" src="https://github.com/user-attachments/assets/45e722e9-c24b-48fa-9835-23c3e34d35db" />&nbsp;
+<img height="48" alt="flutter" src="https://github.com/user-attachments/assets/d5ae1769-ccc1-4fc0-9f3c-712c48f623df" />&nbsp;
+<img height="48" alt="supaBase" src="https://github.com/user-attachments/assets/f27b4366-da5a-425f-8c45-7ffc39b57d0d" />&nbsp;
+<img height="48" alt="jira" src="https://github.com/user-attachments/assets/b47bf84f-dab6-4a28-86a3-1676a30c522b" />
 
 ---
 
