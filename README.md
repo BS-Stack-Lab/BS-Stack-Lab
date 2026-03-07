@@ -15,25 +15,25 @@
 ### 🛠 Skills
 
 #### Planning
-<img width="48" height="48" alt="slack-icone-svg-150px" src="https://github.com/user-attachments/assets/edb9f756-f819-4234-a77b-d9a1cbf8ea4a" />&nbsp;
+<img width="48" height="48" alt="slack-icone-svg-150px" src="https://github.com/user-attachments/assets/edb9f756-f819-4234-a77b-d9a1cbf8ea4a" />
 <img width="48" height="48" alt="_System App Icon" src="https://github.com/user-attachments/assets/51caf5ca-9f04-463a-a4b8-ba28451b9cfe" />
 
 #### Design
-<img width="48" height="48" alt="_System App Icon-3" src="https://github.com/user-attachments/assets/f2b36ec7-1ffb-465b-ba30-3c31c68bc55a" />nbsp;
-<img width="48" height="48" alt="_System App Icon-1" src="https://github.com/user-attachments/assets/fb8bcdf1-e304-4461-8ddd-acd5a67aba63" />nbsp;
+<img width="48" height="48" alt="_System App Icon-3" src="https://github.com/user-attachments/assets/f2b36ec7-1ffb-465b-ba30-3c31c68bc55a" />&nbsp;
+<img width="48" height="48" alt="_System App Icon-1" src="https://github.com/user-attachments/assets/fb8bcdf1-e304-4461-8ddd-acd5a67aba63" />&nbsp;
 <img width="48" height="48" alt="_System App Icon-2" src="https://github.com/user-attachments/assets/2ca2e76a-25b9-4fd1-934f-d60adf50cf20" />
 
 
 #### Development
-<img width="48" height="48" alt="_System App Icon-5" src="https://github.com/user-attachments/assets/93b2fb21-4c7f-41da-b2dd-14f078f6e396" />nbsp;
-<img width="48" height="48" alt="_System App Icon-7" src="https://github.com/user-attachments/assets/f12c4d40-d9ea-4f2d-9803-4149b09b2340" />nbsp;
-<img width="48" height="48" alt="_System App Icon-6" src="https://github.com/user-attachments/assets/b1307e4a-d5f4-4406-83f8-1d28d9585a8b" />nbsp;
+<img width="48" height="48" alt="_System App Icon-5" src="https://github.com/user-attachments/assets/93b2fb21-4c7f-41da-b2dd-14f078f6e396" />&nbsp;
+<img width="48" height="48" alt="_System App Icon-7" src="https://github.com/user-attachments/assets/f12c4d40-d9ea-4f2d-9803-4149b09b2340" />&nbsp;
+<img width="48" height="48" alt="_System App Icon-6" src="https://github.com/user-attachments/assets/b1307e4a-d5f4-4406-83f8-1d28d9585a8b" />&nbsp;
 <img width="48" height="48" alt="_System App Icon-4" src="https://github.com/user-attachments/assets/f5d6d832-83f1-40d8-9561-1f47c801b8d5" />
 
 #### Interests
-<img width="48" height="48" alt="_System App Icon-8" src="https://github.com/user-attachments/assets/5173df7d-0511-475a-a7bb-18aef087848e" />nbsp;
-<img width="48" height="48" alt="_System App Icon-10" src="https://github.com/user-attachments/assets/9b9ae14e-8596-47cf-9f95-b9e393647cfa" />nbsp;
-<img width="48" height="48" alt="_System App Icon-9" src="https://github.com/user-attachments/assets/88602656-420b-4cb2-93b4-c5b4fb08fa1a" />nbsp;
+<img width="48" height="48" alt="_System App Icon-8" src="https://github.com/user-attachments/assets/5173df7d-0511-475a-a7bb-18aef087848e" />&nbsp;
+<img width="48" height="48" alt="_System App Icon-10" src="https://github.com/user-attachments/assets/9b9ae14e-8596-47cf-9f95-b9e393647cfa" /&nbsp;
+<img width="48" height="48" alt="_System App Icon-9" src="https://github.com/user-attachments/assets/88602656-420b-4cb2-93b4-c5b4fb08fa1a" />&nbsp;
 <img width="48" height="48" alt="_System App Icon-11" src="https://github.com/user-attachments/assets/01fbcb73-6b52-4a09-a41b-ac489e35c6ba" />
 
 ---
