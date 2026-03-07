@@ -14,42 +14,27 @@
 
 ### 🛠 Skills
 
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+#### Planning
+<img width="48" height="48" alt="slack-icone-svg-150px" src="https://github.com/user-attachments/assets/edb9f756-f819-4234-a77b-d9a1cbf8ea4a" />&nbsp;
+<img width="48" height="48" alt="_System App Icon" src="https://github.com/user-attachments/assets/51caf5ca-9f04-463a-a4b8-ba28451b9cfe" />
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white">
+#### Design
+<img width="48" height="48" alt="_System App Icon-3" src="https://github.com/user-attachments/assets/f2b36ec7-1ffb-465b-ba30-3c31c68bc55a" />nbsp;
+<img width="48" height="48" alt="_System App Icon-1" src="https://github.com/user-attachments/assets/fb8bcdf1-e304-4461-8ddd-acd5a67aba63" />nbsp;
+<img width="48" height="48" alt="_System App Icon-2" src="https://github.com/user-attachments/assets/2ca2e76a-25b9-4fd1-934f-d60adf50cf20" />
 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
+#### Development
+<img width="48" height="48" alt="_System App Icon-5" src="https://github.com/user-attachments/assets/93b2fb21-4c7f-41da-b2dd-14f078f6e396" />nbsp;
+<img width="48" height="48" alt="_System App Icon-7" src="https://github.com/user-attachments/assets/f12c4d40-d9ea-4f2d-9803-4149b09b2340" />nbsp;
+<img width="48" height="48" alt="_System App Icon-6" src="https://github.com/user-attachments/assets/b1307e4a-d5f4-4406-83f8-1d28d9585a8b" />nbsp;
+<img width="48" height="48" alt="_System App Icon-4" src="https://github.com/user-attachments/assets/f5d6d832-83f1-40d8-9561-1f47c801b8d5" />
 
-
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="25%" valign="top" style="padding-right: 10px; border: none;">
-      <h4>📋 Planning</h4>
-      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"> <br>
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" style="margin-top: 5px;">
-    </td>
-    <td width="25%" valign="top" style="padding-right: 10px; border: none;">
-      <h4>🎨 Design</h4>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"> <br>
-      <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" style="margin-top: 5px;"> <br>
-      <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" style="margin-top: 5px;">
-    </td>
-    <td width="25%" valign="top" style="padding-right: 10px; border: none;">
-      <h4>💻 Development</h4>
-      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> <br>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" style="margin-top: 5px;">
-    </td>
-    <td width="25%" valign="top" style="border: none;">
-      <h4>✨ 관심있는 것들</h4>
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"> <br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="margin-top: 5px;"> <br>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" style="margin-top: 5px;"> <br>
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" style="margin-top: 5px;"> <br>
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" style="margin-top: 5px;">
-    </td>
-  </tr>
-</table>
+#### Interests
+<img width="48" height="48" alt="_System App Icon-8" src="https://github.com/user-attachments/assets/5173df7d-0511-475a-a7bb-18aef087848e" />nbsp;
+<img width="48" height="48" alt="_System App Icon-10" src="https://github.com/user-attachments/assets/9b9ae14e-8596-47cf-9f95-b9e393647cfa" />nbsp;
+<img width="48" height="48" alt="_System App Icon-9" src="https://github.com/user-attachments/assets/88602656-420b-4cb2-93b4-c5b4fb08fa1a" />nbsp;
+<img width="48" height="48" alt="_System App Icon-11" src="https://github.com/user-attachments/assets/01fbcb73-6b52-4a09-a41b-ac489e35c6ba" />
 
 ---
 
