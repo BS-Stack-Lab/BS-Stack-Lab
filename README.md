@@ -45,24 +45,6 @@
 <img height="48" alt="supaBase" src="https://github.com/user-attachments/assets/f27b4366-da5a-425f-8c45-7ffc39b57d0d" />&nbsp;
 <img height="48" alt="jira" src="https://github.com/user-attachments/assets/b47bf84f-dab6-4a28-86a3-1676a30c522b" />
 
----
-
-### 📊 Growth Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BS-Stack-Lab&show_icons=true&theme=bright&title_color=1d1d1f&icon_color=0071e3&text_color=1d1d1f&bg_color=ffffff" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BS-Stack-Lab&layout=compact&theme=bright&title_color=1d1d1f&text_color=1d1d1f&bg_color=ffffff" alt="Top Langs" />
-</p>
-
----
-
-### 📫 Let's Connect
-<p align="left">
-  <a><img src="https://img.shields.io/badge/Email-1d1d1f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=86868b"></a>
-  <a><img src="https://img.shields.io/badge/Tech%20Blog-1d1d1f?style=for-the-badge&logo=rss&logoColor=white&labelColor=86868b"></a>
-</p>
-
-<br>
-
 <p align="center">
   <font color="#86868b">©2026 beomseo. Crafted with passion and curiosity.</font>
 </p>
