@@ -22,6 +22,30 @@
 #### 💻 Development
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
+
+### 🛠 Skills
+
+<table width="100%" style="border-collapse: collapse; border-style: none;">
+  <tr>
+    <td width="33%" valign="top" style="border-style: none;">
+      <h4>📋 Planning</h4>
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="margin-top: 5px;">
+    </td>
+    <td width="33%" valign="top" style="border-style: none;">
+      <h4>🎨 Design</h4>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" style="margin-top: 5px;"><br>
+      <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" style="margin-top: 5px;">
+    </td>
+    <td width="33%" valign="top" style="border-style: none;">
+      <h4>💻 Development</h4>
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" style="margin-top: 5px;">
+    </td>
+  </tr>
+</table>
+
 ---
 
 ![Spacing](https://github.com/user-attachments/assets/0868ddf3-99a7-43d7-8df5-0ff780be16eb)
