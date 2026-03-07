@@ -8,7 +8,7 @@
   "사용자의 시선에서 기획하고, 개발자의 언어로 구현합니다."
 </h2>
 
-<div style="margin-top: -24px;"></div> <p align="left" style="font-size: 16px; line-height: 1.6; color: #1D1D1F;">
+<div style="margin-top: -24px;"></div> <p align="left" style="font-size: 16px; line-height: 1.6; color: #848484;">
   안녕하세요! 디자인 전공의 감각과 기획적 사고력을 코드로 구현해나가는 예비 풀스택 빌더 박범서입니다.</strong><br>
   비전공자로서 AI를 적극 활용하여 아이디어를 빠르게 프로토타이핑하고, 실질적인 백엔드 로직(Java)까지 구현하는 전 과정을 경험하고 싶습니다.
 </p>
