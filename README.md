@@ -24,8 +24,6 @@
 
 
 
-<hr style="border: 0.5px solid #F5F5F7;">
-
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="33.3%" valign="top" style="padding-right: 10px; border: none;">
