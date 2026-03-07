@@ -11,7 +11,9 @@
 </div>
 
 ### 목표
-Java와 SpringBoot를 익힌 다음에 AI가 작성한 코드를 리팩토링할 수 있는 실력까지 오르고 싶습니다.
+<div style="margin-top: -20px;">
+  Java와 SpringBoot를 익힌 다음에 AI가 작성한 코드를 리팩토링할 수 있는 실력까지 오르고 싶습니다.
+</div>
 
 ---
 
