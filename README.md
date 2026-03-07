@@ -3,7 +3,7 @@
 
 <div align="left" style="padding: 20px;">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=24&letterSpacing=-1%25&duration=3500&pause=1000&color=181818&width=880&height=40&lines=%22%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98+%EC%8B%9C%EC%84%A0%EC%97%90%EC%84%9C+%EA%B8%B0%ED%9A%8D%ED%95%98%EA%B3%A0%2C+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98+%EC%96%B8%EC%96%B4%EB%A1%9C+%EA%B5%AC%ED%98%84%ED%95%A9%EB%8B%88%EB%8B%A4.%22" alt="Typing SVG" /></a>
-  <div style="font-size: 16px; color: #1D1D1F;">
+  <div style="font-size: 16px; color: #848484FF;">
     안녕하세요! 디자인 전공의 감각과 기획적 사고력을 코드로 구현해나가는 예비 풀스택 빌더 박범서입니다.</strong><br>
     비전공자로서 AI를 적극 활용하여 아이디어를 빠르게 프로토타이핑하고, 실질적인 백엔드 로직(Java)까지 구현하는 전 과정을 경험하고 싶습니다.
   </div>
