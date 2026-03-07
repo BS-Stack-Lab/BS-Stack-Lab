@@ -1,8 +1,6 @@
-# Design the Experience, Build the Logic.
+<img src="images/banner.png" width="100%">
 
-<p align="center">
-  <img src="images/banner.png" width="100%">
-</p>
+# Design the Experience, Build the Logic.
 
 ## "사용자의 시선에서 기획하고, 개발자의 언어로 구현합니다."
 <div style="margin-top: -20px;">
