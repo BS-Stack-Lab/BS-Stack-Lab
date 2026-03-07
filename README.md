@@ -1,4 +1,5 @@
 ![banner](https://github.com/user-attachments/assets/4577bb5e-e67e-4642-a1dd-13383215a657)
+![banner](https://github.com/user-attachments/assets/53314c16-4243-4b16-88f2-666328f608fe)
 
 ## "사용자의 시선에서 기획하고, 개발자의 언어로 구현합니다."
 안녕하세요! 디자인 전공의 감각과 기획적 사고력을 코드로 구현해나가는 예비 풀스택 빌더 박범서입니다.<br>
