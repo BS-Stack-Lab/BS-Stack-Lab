@@ -1,4 +1,4 @@
-#  Design the Experience, Build the Logic.
+# Design the Experience, Build the Logic.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=F5F5F7&height=150&section=header&text=Full-stack%20Builder&fontSize=50&fontColor=1D1D1F" />
@@ -12,7 +12,7 @@
 
 <h2 align="left">
   목표 <br>
-  <p style="font-size: 16px;">Java와 SpringBoot를 익힌 다음에 AI가 작성한 코드를 리팩토링할 수 있는 실력까지 오르고 싶습니다.</p>
+  <h4 style="font-size: 16px; margin-top: -20px;">Java와 SpringBoot를 익힌 다음에 AI가 작성한 코드를 리팩토링할 수 있는 실력까지 오르고 싶습니다.</h4>
 </h2>
 
 ---
