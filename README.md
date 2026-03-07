@@ -9,6 +9,7 @@
 비전공자로서 AI를 적극 활용하여 아이디어를 빠르게 설계하고 실질적인 백엔드 로직(Java)까지 구현하는 전 과정을 경험하고 싶습니다.
 
 ---
+<hr style="border: 0.1px solid #F5F5F7;">
 
 ![Spacing](https://github.com/user-attachments/assets/0868ddf3-99a7-43d7-8df5-0ff780be16eb)
 
