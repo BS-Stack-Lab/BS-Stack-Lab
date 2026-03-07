@@ -15,7 +15,7 @@
 ### 🛠 Skills
 
 #### Planning
-<img width="192" height="192" alt="slack-icone-svg-150px" src="https://github.com/user-attachments/assets/c12216bb-5724-4f84-bd5a-1ba2a0783725" />&nbsp;
+<img height="48" alt="slack-icone-svg-150px" src="https://github.com/user-attachments/assets/c12216bb-5724-4f84-bd5a-1ba2a0783725" />&nbsp;
 <img width="192" height="192" alt="_System App Icon" src="https://github.com/user-attachments/assets/a3c5f8f3-3d32-4ac1-afbd-ab77d47e5f0f" />
 
 
