@@ -3,6 +3,7 @@
 <!-- 여백용 이미지 -->
 ![Spacing](https://github.com/user-attachments/assets/0868ddf3-99a7-43d7-8df5-0ff780be16eb)
 
+<img alt="title" src="https://github.com/user-attachments/assets/20b7a80d-d2cd-4c98-9e10-9c75de462502" width="80%">
 
 <img alt="title" src="https://github.com/user-attachments/assets/20b7a80d-d2cd-4c98-9e10-9c75de462502" style="width: 1200;">
 
