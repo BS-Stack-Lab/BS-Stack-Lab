@@ -3,6 +3,8 @@
 <!-- 여백용 이미지 -->
 ![Spacing](https://github.com/user-attachments/assets/0868ddf3-99a7-43d7-8df5-0ff780be16eb)
 
+![title_1_20260308080344](https://github.com/user-attachments/assets/9931a6c3-7e34-4cca-9a14-736327800949)
+
 <img alt="title" src="https://github.com/user-attachments/assets/1c573e5d-cb79-469a-952f-14d2b6148f7c" style="max-width: 100%; max-height: 94px; height: auto; width: auto;">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&letterSpacing=-1%25&duration=3500&pause=1500&color=FF6B81&vCenter=true&multiline=true&width=880&height=40&lines=%22%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98+%EC%8B%9C%EC%84%A0%EC%97%90%EC%84%9C+%EA%B8%B0%ED%9A%8D%ED%95%98%EA%B3%A0%2C+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98+%EC%96%B8%EC%96%B4%EB%A1%9C+%EA%B5%AC%ED%98%84%ED%95%A9%EB%8B%88%EB%8B%A4.%22" alt="Typing SVG" /></a>
