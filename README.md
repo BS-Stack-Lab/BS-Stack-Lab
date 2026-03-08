@@ -3,7 +3,8 @@
 <!-- 여백용 이미지 -->
 ![Spacing](https://github.com/user-attachments/assets/0868ddf3-99a7-43d7-8df5-0ff780be16eb)
 
-![Frame123](https://github.com/user-attachments/assets/20b7a80d-d2cd-4c98-9e10-9c75de462502)
+
+<img alt="title" src="https://github.com/user-attachments/assets/20b7a80d-d2cd-4c98-9e10-9c75de462502" style="max-width: 80%;">
 
 <img alt="title" src="https://github.com/user-attachments/assets/1c573e5d-cb79-469a-952f-14d2b6148f7c" style="max-width: 100%; max-height: 94px; height: auto; width: auto;">
 
