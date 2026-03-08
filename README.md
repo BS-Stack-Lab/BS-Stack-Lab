@@ -3,12 +3,9 @@
 <!-- 여백용 이미지 -->
 ![Spacing](https://github.com/user-attachments/assets/0868ddf3-99a7-43d7-8df5-0ff780be16eb)
 
+<!-- 타이핑 효과 -->
 <img alt="title" src="https://github.com/user-attachments/assets/20b7a80d-d2cd-4c98-9e10-9c75de462502" width="60%">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&letterSpacing=-1%25&duration=3500&pause=1500&color=FF6B81&vCenter=true&multiline=true&width=880&height=40&lines=%22%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98+%EC%8B%9C%EC%84%A0%EC%97%90%EC%84%9C+%EA%B8%B0%ED%9A%8D%ED%95%98%EA%B3%A0%2C+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98+%EC%96%B8%EC%96%B4%EB%A1%9C+%EA%B5%AC%ED%98%84%ED%95%A9%EB%8B%88%EB%8B%A4.%22" alt="Typing SVG" /></a>
-
-<!-- 타이핑 효과 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=24&letterSpacing=-1%25&duration=3500&pause=1500&color=181818&width=880&height=40&lines=%22%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98+%EC%8B%9C%EC%84%A0%EC%97%90%EC%84%9C+%EA%B8%B0%ED%9A%8D%ED%95%98%EA%B3%A0%2C+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98+%EC%96%B8%EC%96%B4%EB%A1%9C+%EA%B5%AC%ED%98%84%ED%95%A9%EB%8B%88%EB%8B%A4.%22)](https://git.io/typing-svg)
 <br>
 안녕하세요! 디자인 전공의 감각과 기획적 사고력을 코드로 구현해나가는 예비 풀스택 빌더 박범서입니다.
 <br>
