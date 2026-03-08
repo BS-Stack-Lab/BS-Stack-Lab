@@ -4,10 +4,11 @@
 ![Spacing](https://github.com/user-attachments/assets/0868ddf3-99a7-43d7-8df5-0ff780be16eb)
 
 <!-- 타이핑 효과 -->
-<img alt="title" src="https://github.com/user-attachments/assets/20b7a80d-d2cd-4c98-9e10-9c75de462502" width="60%">
+<img alt="title" src="https://github.com/user-attachments/assets/20b7a80d-d2cd-4c98-9e10-9c75de462502" width="70%">
 
 <br>
 안녕하세요! 디자인 전공의 감각과 기획적 사고력을 코드로 구현해나가는 예비 풀스택 빌더 박범서입니다.
+<br>
 <br>
 AI를 적극 활용하여 아이디어를 빠르게 설계하고 실질적인 백엔드 로직까지 구현하는 전 과정을 경험하고 싶습니다.
 
