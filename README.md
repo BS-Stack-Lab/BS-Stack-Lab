@@ -6,8 +6,8 @@
 <!-- 타이핑 효과 -->
 <img alt="title" src="https://github.com/user-attachments/assets/20b7a80d-d2cd-4c98-9e10-9c75de462502" width="70%">
 
-<br>
-<br>
+<!-- 여백용 이미지 -->
+![Spacing](https://github.com/user-attachments/assets/0868ddf3-99a7-43d7-8df5-0ff780be16eb)
 
 안녕하세요! 디자인 전공의 감각과 기획적 사고력을 코드로 구현해나가는 예비 풀스택 빌더 박범서입니다.
 <br>
