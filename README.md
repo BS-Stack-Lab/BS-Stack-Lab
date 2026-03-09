@@ -1,9 +1,9 @@
 ![header](https://github.com/user-attachments/assets/e4a66ec3-fd48-4a2a-a3ba-25abe408bb11)
 
-<-- 여백용 이미지 -->
+<!-- 여백용 이미지 -->
 ![Spacing](https://github.com/user-attachments/assets/0868ddf3-99a7-43d7-8df5-0ff780be16eb)
 
-<-- 타이핑 효과 -->
+<!-- 타이핑 효과 -->
 <img alt="title" src="https://github.com/user-attachments/assets/20b7a80d-d2cd-4c98-9e10-9c75de462502" width="70%">
 
 <!-- 여백용 이미지 -->
