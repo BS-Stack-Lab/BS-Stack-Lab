@@ -1,4 +1,4 @@
-<!-- 여백용 이미지 -->
+<!-- 히어로 이미지 -->
 <img width="3840" height="1120" alt="top" src="https://github.com/user-attachments/assets/ec4aca00-77b5-4d69-bb80-66af8e2e5f84" />
 
 <!-- 타이핑 효과 -->
@@ -49,6 +49,9 @@ AI를 적극 활용하여 아이디어를 빠르게 설계하고 이를 실질�
 <img height="48" alt="jira" src="https://github.com/user-attachments/assets/b47bf84f-dab6-4a28-86a3-1676a30c522b" />
 
 <!-- 여백용 이미지 -->
+![Spacing](https://github.com/user-attachments/assets/0868ddf3-99a7-43d7-8df5-0ff780be16eb)
+
+<!-- 푸터 이미지 -->
 <img width="3840" height="1330" alt="bottom" src="https://github.com/user-attachments/assets/a333c1f2-b415-49e7-b609-d2db64136994" />
 
 
