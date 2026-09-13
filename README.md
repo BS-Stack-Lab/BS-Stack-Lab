@@ -1,7 +1,6 @@
 ![header](https://github.com/user-attachments/assets/e4a66ec3-fd48-4a2a-a3ba-25abe408bb11)
 
 <!-- 여백용 이미지 -->
-![Spacing](https://github.com/user-attachments/assets/ec4aca00-77b5-4d69-bb80-66af8e2e5f84)
 <img width="3840" height="1120" alt="top" src="https://github.com/user-attachments/assets/ec4aca00-77b5-4d69-bb80-66af8e2e5f84" />
 
 <!-- 타이핑 효과 -->
