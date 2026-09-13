@@ -2,6 +2,7 @@
 
 <!-- 여백용 이미지 -->
 ![Spacing](https://github.com/user-attachments/assets/0868ddf3-99a7-43d7-8df5-0ff780be16eb)
+<img width="3840" height="1120" alt="top" src="https://github.com/user-attachments/assets/ec4aca00-77b5-4d69-bb80-66af8e2e5f84" />
 
 <!-- 타이핑 효과 -->
 <img alt="title" src="https://github.com/user-attachments/assets/20b7a80d-d2cd-4c98-9e10-9c75de462502" width="70%">
