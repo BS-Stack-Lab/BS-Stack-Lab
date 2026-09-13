@@ -49,9 +49,6 @@ AI를 적극 활용하여 아이디어를 빠르게 설계하고 이를 실질�
 <img height="48" alt="jira" src="https://github.com/user-attachments/assets/b47bf84f-dab6-4a28-86a3-1676a30c522b" />
 
 <!-- 여백용 이미지 -->
-![Spacing](https://github.com/user-attachments/assets/0868ddf3-99a7-43d7-8df5-0ff780be16eb)
-![Spacing](https://github.com/user-attachments/assets/0868ddf3-99a7-43d7-8df5-0ff780be16eb)
-
 <img width="3840" height="1330" alt="bottom" src="https://github.com/user-attachments/assets/a333c1f2-b415-49e7-b609-d2db64136994" />
 
 
