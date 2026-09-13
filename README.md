@@ -55,8 +55,6 @@ AI를 적극 활용하여 아이디어를 빠르게 설계하고 이를 실질�
 <img width="3840" height="1330" alt="bottom" src="https://github.com/user-attachments/assets/a333c1f2-b415-49e7-b609-d2db64136994" />
 
 
-![bottom](https://github.com/user-attachments/assets/bb574938-135c-4c34-b4ee-11fe7898aec4)
-
 <div align="center">
   <h6>©2026 beomseo. Records crafted with passion and curiosity.</h6>
 </div>
